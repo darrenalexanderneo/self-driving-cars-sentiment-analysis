@@ -1,5 +1,4 @@
 # Sentiment Analysis based on public sentiments of self driving cars.
-A undergraduate natural language processing (NLP) project to identify various aspects and drivers of depression.
 
 <h3> Summary </h3> 
 The onset of Artificial Intelligence (AI) and Computer Vision (CV) has enabled the advancement of autonomous vehicles in recent years. Major corporations such as Baidu, Cruise and Tesla have been at the forefront of commercializing autonomous vehicles (AV) as epitomized by Baidu’s plan to roll out 1,000 Baidu Apollo robotaxis by 2024 (Kharpal, 2021).
